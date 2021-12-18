@@ -1,0 +1,41 @@
+li,
+a {
+  color: white;
+  text-shadow: 500;
+}
+
+.tales {
+  margin-left: 4rem;
+  margin-top: 20px;
+  width: 92%;
+  height: 65vh;
+  object-fit: cover;
+}
+
+.img-fluid {
+  width: 100%;
+  height: 228px;
+  border-radius: 5px;
+}
+
+.profile a {
+  color: black;
+  text-decoration: none;
+}
+
+.imgs-fluid {
+  width: 100%;
+  height: 53%;
+  border-radius: 5px;
+}
+
+.js {
+  width: 100%;
+  height: 53%;
+  border-radius: 5px;
+}
+
+
+.brand{
+object-fit: cover;
+}

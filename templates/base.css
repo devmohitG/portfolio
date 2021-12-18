@@ -1,0 +1,31 @@
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    padding-left: 20%;
+}
+
+
+
+.nav-item{
+    padding-left: 25px;
+}
+
+
+.navbar-expand-lg{
+    background-color: rgba(95, 25, 25, 0.966);
+}
+
+
+.navbar-brand{
+    object-fit: cover;
+}
+
+.nav-link{
+    color:white;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
